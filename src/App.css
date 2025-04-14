@@ -1,0 +1,60 @@
+.heading{
+  text-align: center;
+  padding-top: 0px;
+}
+.btn-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5px;
+}
+.btn{
+  background-color: green;
+  gap:10px;
+  margin-right: 8px;
+  padding: 8px 16px; 
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  
+}
+
+.btn:hover{
+  background-color: rgb(152, 79, 180);
+}
+.format{
+  
+  background-color: rgb(152, 79, 180);
+  gap:10px;
+  margin-right: 8px;
+  padding: 8px 16px; 
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.theme{
+  
+  background-color: rgb(152, 79, 180);
+  gap:10px;
+  margin-right: 8px;
+  padding: 8px 16px; 
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.container{
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+
